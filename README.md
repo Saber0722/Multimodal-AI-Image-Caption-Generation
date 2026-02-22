@@ -388,7 +388,7 @@ Random seeds are fixed where applicable.
 
 COCO dataset subject to its official terms.
 CLIP model under OpenAI license.
-Project intended for academic and research use.
+This project is under MIT License and is intended for academic and research use.
 
 ---
 

@@ -6,16 +6,9 @@ This project focuses on efficient adaptation of large multimodal models under li
 
 ---
 
-# 📌 What This Project Is (And Is Not)
-
-✅ This project performs **image–text retrieval**
-❌ It does NOT generate captions (CLIP is not a generative model)
+# 📋 Project Overview
 
 Given an image, the model retrieves the most semantically aligned caption from a candidate pool using cosine similarity in embedding space.
-
----
-
-# 📋 Project Overview
 
 This project implements:
 

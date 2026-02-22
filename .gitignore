@@ -1,0 +1,14 @@
+# data
+data/
+
+# checkpoints
+checkpoints/
+checkpoints_full/
+
+
+# pycache
+src/__pycache__/
+
+# docs
+approach.md
+
